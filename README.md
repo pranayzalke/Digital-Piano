@@ -4,7 +4,7 @@
 
  A digital piano that allows users to play music using a keyboard.
 
-Technology Used: 
+# Technology Used: 
  HTML, CSS, JavaScript
 
 # Description:
